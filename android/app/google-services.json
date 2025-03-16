@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388737115031",
+    "project_id": "realecommerce-fb194",
+    "storage_bucket": "realecommerce-fb194.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388737115031:android:db2a8a9e08e37db0a31ad2",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKVtOfknJdKVTfafY-cbK6GkUuEwtiYKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
