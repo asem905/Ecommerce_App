@@ -1,7 +1,7 @@
 # **E-Commerce App - Flutter with PHP Backend**  
 
 ## **📱 Overview**  
-A **full-stack e-commerce mobile application** built with **Flutter (Dart)** for the frontend and **PHP + MySQL** for the backend. The app includes essential e-commerce features like **product listing, search, cart management, favorites, user authentication, and order processing**, along with **localization (multi-language support)** and **state management using GetX**.  
+A **full-stack e-commerce mobile application** built with **Flutter (Dart)** for the frontend and **PHP + MySQL + Firebase** for the backend. The app includes essential e-commerce features like **product listing, search, cart management, favorites, user authentication, and order processing**, along with **localization (multi-language support)** and **state management using GetX**.  
 
 ---
 
